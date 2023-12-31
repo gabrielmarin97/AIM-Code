@@ -141,7 +141,6 @@ plot_db <- tbl_df(plot_db)
 
 # GG plot
 # Setup a theme for all your plots
-themes
 theme_set(theme_bw() +
           theme(title = element_text(face = "bold", size = 16),
                 axis.text.x = element_text(size = 14),
