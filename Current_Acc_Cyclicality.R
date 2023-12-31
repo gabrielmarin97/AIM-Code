@@ -21,7 +21,7 @@ library(plotrix)
 library(stargazer)
 
 # Setup working directory
-setwd("/Users/gmm/Dropbox/Anahuac Economics Department/Applied International Macroeconomics/Github/aim/R Code/Data")
+setwd("/Users/gmm/Dropbox/Anahuac Economics Department/Applied International Macroeconomics/Github/aim/Code/Data")
 
 # Let us search the WB API to obtain our relevant variables
 curacc_inds<- wb_search("current account") # the indicator we need is BN.CAB.XOKA.CD
