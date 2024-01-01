@@ -1,5 +1,5 @@
 #==========================================================#
-# Week 1: Current Account Procyclicality?
+# Lecture 1: Current Account Procyclicality?
 # Gabriel Marin, Anahuac University
 # gabrielmarinmu.97@gmail.com
 # Note: In this R-script we will make use of World Bank
